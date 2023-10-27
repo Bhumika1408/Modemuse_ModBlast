@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="your_repository_logo.png" alt="Repository Logo">
-</p>
+
 
 # Mood-Based Music Recommendation with Spotify 🎵🎶
 
