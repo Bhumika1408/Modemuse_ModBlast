@@ -1,7 +1,2 @@
 # Modemuse_ModBlast
-This is a mood based music recommendation project..
-Here I have given 2 ways of implementation 
-
-1.It takes input of mood and then suggests personalized music tracks
-
-2.It takes mood input and then gives list of songs after evaluating all parametres and then on selecting plays the particular song
+This project is a Python application that leverages the Spotify API to recommend music based on the user's mood. It allows users to input their current mood, such as "happy" or "sad," and then suggests tracks from their own saved music library that match the specified mood.
